@@ -31,6 +31,24 @@ python ImageBreaker.py
 
 ---
 
+### 🪟 方法二：直接运行打包好的 Windows 程序
+
+> 📦 无需 Python 环境，下载即用：
+
+1. 访问 [Releases 页面](https://github.com/GoldenWaL/ImageBreaker/releases)
+2. 下载最新版压缩包（如 `ImageBreaker-Windows.zip`），解压后双击运行 `ImageBreaker.exe`
+
+---
+
+#### ⚠️ 高分屏下字体过小怎么办？
+
+1. 右键 `ImageBreaker.exe` → 属性 → **兼容性**
+2. 点击 **更改高 DPI 设置**
+3. 勾选 **高 DPI 缩放替代** → 选择 **系统（增强）**
+4. 点击确定并重新运行程序，字体即正常
+
+---
+
 ## 🛠️ 项目结构
 
 - `ImageBreaker.py`：主程序文件，包含完整 GUI 与处理逻辑。
